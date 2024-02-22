@@ -1,0 +1,27 @@
+#form{
+    border: 5px solid purple;
+    margin: 10% 20%;
+    padding: 20px 50px;
+    border-radius: 90px;
+}
+input{
+    border: 1px solid;
+    margin: 2% 5%;
+    padding: 20px 50px;
+    width: 500px;
+    
+}
+button{
+    border: 2px solid lightseagreen;
+    padding: 20px 50px;
+    width: 200px;
+    background-color:lightseagreen ;
+    color: beige;
+}
+img{
+    border-radius: 300px;
+
+}
+
+
+
